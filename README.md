@@ -24,6 +24,6 @@ def circulate():
 ~~~
 
 ## Output:
-![GitHub logo](CIRCULATE.PNG)
+![GitHub logo](CIRCULATE.png)
 
 ## Result: THUS THE CIRCULATING THE VALUES OF N VARIBALE IS SUCCESSFULLY EXECUTED
